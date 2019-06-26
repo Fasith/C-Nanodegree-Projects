@@ -22,3 +22,11 @@ Not all exercises have tests. The table is given below with the complete list of
 | Find the Closest Node       |
 | Write the A* Search Stub    |
 | Finish A* Search            |
+
+##RUN THE PROGRAM
+Run the following command:-
+
+```
+../bin/CppND-Route-Planning-Project -f ../map.osm
+```
+
